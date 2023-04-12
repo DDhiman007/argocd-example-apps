@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: gdocker.io/deepanshud007/guestbook-demo
+  repository: docker.io/deepanshud007/guestbook-demo
   tag: 0.3
   pullPolicy: IfNotPresent
 
