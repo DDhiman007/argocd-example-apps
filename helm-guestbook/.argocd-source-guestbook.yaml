@@ -4,5 +4,5 @@ helm:
     value: docker.io/deepanshud007/guestbook-demo
     forcestring: true
   - name: image.tag
-    value: "0.4"
+    value: "0.5"
     forcestring: true
